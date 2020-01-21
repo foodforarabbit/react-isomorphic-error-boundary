@@ -8,7 +8,7 @@ node_modules
 /reports
 
 # production
-build
+# build
 examples/ssr/public
 
 # package
